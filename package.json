@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/sonaliDummy/gitPractice/issues"
   },
-  "homepage": "https://github.com/sonaliDummy/gitPractice#readme"
+  "homepage": "https://github.com/sonaliDummy/gitPractice#readme",
+  "devDependencies": {
+    "grunt": "^1.0.0"
+  }
 }
