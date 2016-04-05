@@ -1,0 +1,22 @@
+{
+  "name": "gruntpractice",
+  "version": "0.0.0",
+  "description": "gr5unt",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt pratice study"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonaliDummy/gitPractice.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "sonali kokare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonaliDummy/gitPractice/issues"
+  },
+  "homepage": "https://github.com/sonaliDummy/gitPractice#readme"
+}
